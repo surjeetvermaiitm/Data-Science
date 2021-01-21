@@ -13,6 +13,4 @@ On python then we create a function to detect the blinking ratio where we insert
 We will then use the ratio number later to detect and we can finally define when the eye is blinking or not.
 In this case I found ratio number 5.7 to be the most reiable threshold, at least for my eye.
 
---shape-predictor : This is the path to dlib’s pre-trained facial landmark detector.
-  You can download the detector along with the source code + example videos to this tutorial
-  using the “Downloads” section of the bottom of this blog post.
+
